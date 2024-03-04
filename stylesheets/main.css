@@ -1,0 +1,14 @@
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+}
+
+:root {
+    --preto: #343A40;
+    --branco: #EFF2F4;
+}
+
+.tema-escuro {
+    --bg: var(--preto);
+    --fontColor: var(--branco);
+}
